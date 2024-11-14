@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cbrt"
-version = "0.1.0"
+version = "0.1.0-alpha"
 description = "Python package for accessing data from the Central Bank of the Republic of Türkiye"
 authors = [
     { name = "Alper Yıldırım", email = "yildirimalper@outlook.de" }
